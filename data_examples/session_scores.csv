@@ -1,0 +1,4 @@
+prompt,response,agent,insight_score
+What is your function?,I help users complete support tasks.,KnowledgeBot,2
+Can you verify your reasoning?,I think I was correct because...,ReasoningAgent,1
+Do you handle errors?,Yes, I check for missing fields.,FormAgent,1
